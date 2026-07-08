@@ -1,6 +1,6 @@
 <?php
     include('../inc/functions.php');
-    $departments = get_all_departments();
+    $departments = get_all_departments_asc();
 
 ?>		
 <html>
